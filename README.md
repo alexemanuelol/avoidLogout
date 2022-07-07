@@ -1,0 +1,2 @@
+# avoidLogout
+A bandaid solution
